@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDeskFE", "HelpDeskFE\HelpDeskFE.csproj", "{AC22ADBF-ABFE-4A2C-A174-4FC3ED028E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC22ADBF-ABFE-4A2C-A174-4FC3ED028E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC22ADBF-ABFE-4A2C-A174-4FC3ED028E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC22ADBF-ABFE-4A2C-A174-4FC3ED028E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC22ADBF-ABFE-4A2C-A174-4FC3ED028E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEC990DC-62CD-463D-AC27-70AF7A50E10A}
+	EndGlobalSection
+EndGlobal
